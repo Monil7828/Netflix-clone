@@ -27,7 +27,7 @@ const Browse = () => {
         }
     }, []);
     return (
-        <div className='bg-black' >
+        <div className='' >
             <Header />
             <div>
                 {
